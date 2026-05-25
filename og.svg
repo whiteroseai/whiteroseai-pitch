@@ -1,0 +1,18 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#FCF6F1"/>
+  <circle cx="918" cy="122" r="228" fill="#F0DDD3"/>
+  <circle cx="182" cy="548" r="248" fill="#F6E8E0"/>
+  <rect x="70" y="70" width="1060" height="490" rx="40" fill="white" fill-opacity="0.78" stroke="#E8D4CA"/>
+  <text x="120" y="230" fill="#19161A" font-family="Cormorant Garamond, serif" font-size="92" font-weight="600">
+    White-Rose.ai
+  </text>
+  <text x="120" y="312" fill="#C98E86" font-family="Cormorant Garamond, serif" font-size="64" font-style="italic">
+    The AI Wedding Concierge for Italy
+  </text>
+  <text x="120" y="406" fill="#534D52" font-family="Manrope, sans-serif" font-size="34">
+    Una piattaforma AI che trasforma la pianificazione del matrimonio
+  </text>
+  <text x="120" y="452" fill="#534D52" font-family="Manrope, sans-serif" font-size="34">
+    in una conversazione, fino a matching, booking e orchestration.
+  </text>
+</svg>
