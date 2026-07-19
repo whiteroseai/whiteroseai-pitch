@@ -1,6 +1,6 @@
 # White-Rose.ai Pitch
 
-Presentazione slide-by-slide per raccontare White-Rose.ai come nuova categoria: `AI Wedding Concierge`.
+Presentazione slide-by-slide per raccontare White-Rose.ai come piattaforma collaborativa AI per destination wedding in Italia.
 
 ## Caratteristiche
 
@@ -16,17 +16,20 @@ Presentazione slide-by-slide per raccontare White-Rose.ai come nuova categoria: 
 npm run dev
 ```
 
-Poi apri `http://localhost:4173/` dalla cartella `pitch`.
+Poi apri:
+
+- italiano: `http://localhost:4173/`
+- inglese: `http://localhost:4173/en/`
 
 ## Ordine narrativo
 
 1. categoria e promessa
-2. frammentazione del mercato wedding
-3. prodotto conversazionale
-4. stack prodotto
+2. frammentazione operativa dei destination wedding
+3. AI Concierge e Wedding Brief
+4. workspace per coppie e partner
 5. dimensione del mercato
 6. architettura della piattaforma
-7. evoluzione verso wedding operating system
+7. evoluzione verso Wedding Operating System
 8. vantaggio competitivo
 9. visione finale
 

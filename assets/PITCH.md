@@ -1,236 +1,185 @@
 # WHITE-ROSE.AI
 
-### The AI Wedding Concierge for Italy
+### Il sistema operativo per i destination wedding in Italia
 
 ---
 
 ## 1. Executive Summary
 
-White-Rose.ai è una piattaforma AI dedicata all’organizzazione dei matrimoni che trasforma la pianificazione in una conversazione.
+White-Rose.ai e' una piattaforma collaborativa alimentata dall'AI che porta i destination wedding dal caos a un piano prenotabile.
 
-L’utente interagisce con un assistente intelligente che comprende:
+Il prodotto non nasce come un altro marketplace di fornitori.
 
-* budget
-* stile desiderato
-* località
-* numero invitati
-* periodo
-* servizi richiesti
-* esigenze logistiche
-* preferenze estetiche
+Nasce come uno spazio operativo condiviso in cui coppie internazionali, wedding planner, location, hotel e fornitori lavorano sullo stesso progetto, con l'AI che riduce attrito, frammentazione e lavoro amministrativo.
 
-L’agente AI costruisce automaticamente il matrimonio ideale selezionando:
+L'esperienza parte da un AI Wedding Concierge che conversa con la coppia e trasforma preferenze, budget, destinazione, stile, ospiti e vincoli logistici in un Wedding Brief strutturato.
 
-* location
-* wedding planner
-* hotel
-* catering
-* fotografi
-* fioristi
-* musicisti
-* trasporti
-* servizi premium
-* esperienze per ospiti
+Da quel brief, White-Rose.ai attiva i partner piu' adatti, organizza proposte e preventivi, mantiene conversazioni e documenti nello stesso workspace e guida il progetto verso prenotazione, budget e coordinamento.
 
-La piattaforma utilizza una knowledge base proprietaria e un sistema di integrazione con operatori del settore tramite:
+L'obiettivo non e' sostituire wedding planner o fornitori.
 
-* MCP
-* UCP (Universal Commerce Protocol)
-* API proprietarie
-* connettori hospitality
-* sistemi di booking
-* marketplace partner
+L'obiettivo e' amplificarli.
 
-White-Rose.ai vuole diventare il **Wedding Operating System europeo**.
+White-Rose.ai vuole diventare l'infrastruttura digitale dell'ecosistema italiano dei destination wedding e, nel tempo, il Wedding Operating System europeo per eventi premium multi-fornitore.
 
 ---
 
 # 2. Il problema
 
-Il mercato wedding è estremamente frammentato.
+L'Italia vende il sogno.
 
-Una coppia che organizza un matrimonio gestisce mediamente:
+Il processo per realizzarlo e' ancora rotto.
 
-* 15–25 fornitori
-* decine di preventivi
-* centinaia di messaggi
-* mesi di coordinamento
-* continue revisioni del budget
+Una coppia internazionale deve coordinare:
 
-Il processo è:
+* wedding planner
+* location
+* hotel
+* catering
+* fotografi e videomaker
+* floral designer
+* musicisti
+* trasporti
+* esperienze per ospiti
+* documentazione legale
+* logistica locale
 
-dispersivo
-costoso
-stressante
-poco digitalizzato
+Il processo avviene ancora tra email, WhatsApp, PDF, fogli di calcolo, telefonate e preventivi in formati diversi.
 
-I marketplace attuali mostrano elenchi.
+Il risultato:
 
-Nessuno costruisce il matrimonio.
+* nessuna singola fonte di verita'
+* informazioni duplicate
+* preventivi difficili da confrontare
+* comunicazione frammentata
+* tempi lunghi di risposta
+* lavoro amministrativo ripetitivo per i professionisti
 
-I wedding planner risolvono il problema solo parzialmente e hanno costi elevati.
+I marketplace generano liste.
 
-Esiste uno spazio per una nuova categoria:
+White-Rose.ai orchestra il progetto.
 
-**AI Wedding Concierge**
+Il settore wedding ha adottato il marketing digitale.
+
+Non ha ancora adottato le operation digitali.
 
 ---
 
 # 3. Soluzione
 
-White-Rose.ai è una chat intelligente.
+White-Rose.ai trasforma una chat in un progetto wedding operativo.
 
 Esempio:
 
-“Vorrei un matrimonio in Toscana per 120 persone, stile elegante rustico, budget 45 mila euro, con ospiti internazionali.”
+“Vorremmo sposarci sul Lago di Como o in Toscana, 120 ospiti internazionali, stile elegante naturale, budget 70 mila euro, con hotel e transfer per gli ospiti.”
 
-Output:
+La piattaforma produce:
 
-* shortlist location
-* hotel consigliati
-* planner locali
-* proposta floreale
-* preventivi stimati
-* timeline
-* piano logistico
-* disponibilità
-* prenotazioni
-* alternative automatiche
+* Wedding Brief strutturato
+* shortlist di partner qualificati
+* proposte e preventivi comparabili
+* budget e timeline condivisi
+* chat e documenti collegati al progetto
+* supporto multilingue
+* riepiloghi e task automatici
+* coordinamento tra coppia e professionisti
+* percorso verso booking e commerce orchestration
 
-Il sistema evolve da semplice assistente a:
+L'AI non e' il prodotto finale.
 
-ricerca
-matching
-negoziazione
-booking
-coordinamento
-commerce orchestration
+E' il layer che trasforma interesse qualificato in matrimoni prenotati.
 
 ---
 
 # 4. Prodotto
 
-### Modulo utente
+### AI Concierge
 
-Chat AI
+Conversazione naturale
 
-Profilo coppia
+Discovery iniziale
 
-Wedding dashboard
+Generazione Wedding Brief
 
-Budget planner
+Supporto multilingue
 
-Timeline automatica
-
-Gestione invitati
-
-Marketplace servizi
-
-Assistente post-booking
+Risposte e riepiloghi
 
 ---
 
-### Modulo partner
+### Couple Workspace
 
-Dashboard location
+Dashboard matrimonio
 
-Gestione disponibilità
+Timeline progetto
 
-CRM lead
+Budget overview
 
-Analytics
+Proposte fornitori
 
-Revenue tracking
+Chat integrate
 
-Gestione offerte
+Documenti e contratti
 
-Marketplace placement
+Checklist
 
----
-
-### Modulo AI Core
-
-LLM orchestration
-
-RAG engine
-
-Semantic search
-
-Matching engine
-
-Pricing recommendation
-
-Workflow automation
-
-Commerce layer
-
-Protocol connectors
+Gestione ospiti
 
 ---
 
-# 5. Tecnologia
+### Partner Workspace
 
-Architettura prevista:
+Lead e brief qualificati
 
-Frontend
+Preventivi
 
-Mobile app iOS / Android
+Comunicazione cliente
 
-Web dashboard
+Disponibilita'
 
-Conversational interface
+Stato progetto
 
----
+Assistenza AI
 
-Backend
-
-Knowledge graph wedding
-
-Partner database
-
-Availability engine
-
-Recommendation system
-
-Quote generation
-
-Lead routing
-
-Booking orchestration
+Organizzazione matrimoni in corso
 
 ---
 
-AI Layer
+### Collaboration Layer
 
-LLM multi-agent
+Conversazioni collegate ai preventivi
 
-Planner agent
+Preventivi collegati al budget
 
-Vendor agent
+Budget collegato alla timeline
 
-Budget agent
-
-Travel agent
-
-Hospitality agent
+Ogni decisione visibile alle persone coinvolte
 
 ---
 
-Integration Layer
+# 5. Why Now
 
-MCP
+Tre tendenze convergono.
 
-UCP
+## L'AI e' diventata pratica
 
-Booking API
+L'AI conversazionale puo' comprendere richieste complesse, mantenere contesto e assistere processi decisionali lunghi.
 
-Hotel systems
+La pianificazione wedding e' perfetta per questo tipo di supporto.
 
-CRM integrations
+## Il wedding e' ancora offline
 
-Payment gateways
+Il mercato genera miliardi, ma le operation restano manuali.
 
-Event services
+Non esiste una piattaforma condivisa per collegare coppie, planner, location e fornitori durante l'intero ciclo di vita del matrimonio.
+
+## L'Italia e' un mercato ideale
+
+L'Italia e' una delle destinazioni wedding piu' desiderate al mondo.
+
+I destination wedding generano budget piu' alti, piu' servizi hospitality e maggiore complessita' logistica.
+
+Questa complessita' aumenta il valore di una piattaforma operativa intelligente.
 
 ---
 
@@ -238,355 +187,139 @@ Event services
 
 Italia:
 
-circa 180–220 mila matrimoni annui
+circa 180.000-220.000 matrimoni annui
 
-Spesa media:
+GMV wedding domestico stimato:
 
-25.000–35.000 €
+5-7 miliardi EUR
 
 Destination wedding:
 
-40.000–100.000 €+
+budget tipici 40.000-100.000 EUR+
 
-GMV stimato Italia:
+valori medi spesso superiori a 50.000 EUR
 
-5–7 miliardi €
+Segmenti adiacenti futuri:
 
-Segmento destination:
+* viaggi di lusso
+* anniversari
+* celebrazioni private
+* eventi corporate
+* esperienze premium hospitality
 
-oltre 1 miliardo €
+La wedge iniziale e' focalizzata:
 
-Mercato europeo indirizzabile:
+destination wedding in Italia.
 
-20+ miliardi €
+L'ambizione e' piu' ampia:
+
+infrastruttura per eventi premium multi-fornitore.
 
 ---
 
 # 7. Business Model
 
-## Utenti
+Il modello iniziale e' volutamente semplice.
 
-Free:
+La piattaforma sara' gratuita per coppie e partner nella fase iniziale, riducendo le barriere all'adozione e accelerando la costruzione del network.
 
-* pianificazione base
-* suggerimenti limitati
-* shortlist standard
+I ricavi saranno generati tramite commissione sui matrimoni conclusi e prenotati attraverso White-Rose.ai.
 
-Premium
+Logica:
 
-19 €/mese
+* nessun costo iniziale per la coppia
+* nessun abbonamento iniziale per i partner
+* revenue allineata al successo del progetto
+* GMV crescente al crescere dei matrimoni gestiti
 
-Include:
+Nel tempo, potranno aggiungersi:
 
-planning avanzato
-
-budget AI
-
-concierge dedicato
-
-priorità booking
-
-multi-evento
-
-servizi ospiti
-
----
-
-## Partner
-
-Tier Base
-
-99 €/mese
-
-Tier Growth
-
-249 €/mese
-
-Tier Premium
-
-499 €/mese
-
-Include:
-
-lead prioritari
-
-analytics
-
-automazioni
-
-AI insights
-
-CRM
-
-featured placement
-
----
-
-## Commissioni
-
-Fee su matrimoni conclusi:
-
-3–7%
-
-Ipotesi media:
-
-5%
-
-Matrimonio medio:
-
-28.000 €
-
-Ricavo medio:
-
-1.400 €
+* servizi premium per partner
+* payment layer
+* booking orchestration
+* travel e hospitality services
+* strumenti operativi avanzati
 
 ---
 
 # 8. Go To Market
 
-Fase 1
+White-Rose.ai parte dall'Italia per due ragioni strategiche.
 
-Nord Italia
+Primo, il Paese e' uno dei mercati di destination wedding piu' prestigiosi al mondo.
 
-Focus:
+Secondo, il founding team dispone gia' di relazioni consolidate con wedding planner, location, hospitality operator e fornitori locali.
 
-Lago di Como
+Questo riduce il rischio di supply acquisition e consente un lancio con partner qualificati.
 
-Bergamo
+Fase 1:
 
-Milano
+* Lago di Como
+* Toscana
+* Lago di Garda
+* Milano e Nord Italia
 
-Lago di Garda
+Fase 2:
 
----
+* Puglia
+* Costiera Amalfitana
+* Sicilia
+* altre destinazioni italiane premium
 
-Fase 2
+Fase 3:
 
-Destination wedding
-
-Toscana
-
-Puglia
-
-Costiera Amalfitana
-
-Sicilia
-
----
-
-Fase 3
-
-Espansione UE
-
-Spagna
-
-Francia
-
-Grecia
-
-Portogallo
-
----
-
-Acquisizione utenti:
-
-SEO
-
-TikTok
-
-Instagram
-
-creator wedding
-
-planner ambassador
-
-hotel partnership
-
-referral
+* Spagna
+* Francia
+* Grecia
+* Portogallo
 
 ---
 
 # 9. Vantaggio competitivo
 
-Marketplace attuali:
+Marketplace:
 
-mostrano fornitori
+mostrano liste di fornitori
 
-White-Rose:
+White-Rose.ai:
 
-costruisce il matrimonio
+crea un progetto condiviso e prenotabile
 
 Wedding planner:
 
-manuali
+coordinano manualmente
 
-White-Rose:
+White-Rose.ai:
 
-automatizza
+riduce overhead amministrativo e centralizza il workflow
 
-OTA:
+Software CRM generici:
 
-prenotano servizi
+gestiscono contatti
 
-White-Rose:
+White-Rose.ai:
 
-orchestra l’intero evento
+gestisce il ciclo operativo del matrimonio
 
 Moat:
 
-dataset proprietario
-
-storico matrimoni
-
-workflow AI
-
-network partner
-
-integrazioni
-
-knowledge graph
+* network partner iniziale
+* dataset proprietario sui progetti wedding
+* workflow AI verticali
+* storico di brief, preventivi e decisioni
+* knowledge graph wedding
+* spazio collaborativo multi-stakeholder
 
 ---
 
-# 10. Proiezioni economiche
+# 10. Visione
 
-Anno 1
+White-Rose.ai non sta costruendo un altro marketplace per matrimoni.
 
-250 matrimoni
+Sta costruendo l'infrastruttura per immaginare, pianificare, prenotare e realizzare eventi premium in un'unica piattaforma intelligente.
 
-GMV:
+Il primo mercato e' il destination wedding in Italia.
 
-7 M€
+La visione e' diventare il Wedding Operating System europeo.
 
-Ricavi:
-
-600 k€
-
----
-
-Anno 2
-
-900 matrimoni
-
-GMV:
-
-25 M€
-
-Ricavi:
-
-2,2 M€
-
----
-
-Anno 3
-
-3.000 matrimoni
-
-GMV:
-
-84 M€
-
-Ricavi:
-
-7,5 M€
-
----
-
-Anno 5
-
-12.000 matrimoni
-
-GMV:
-
-336 M€
-
-Ricavi:
-
-22–25 M€
-
-EBITDA target:
-
-25–30%
-
----
-
-# 11. Raccolta
-
-Seed round richiesto:
-
-750.000 €
-
-Runway:
-
-18 mesi
-
-Allocazione:
-
-35%
-
-prodotto e AI
-
-25%
-
-engineering
-
-15%
-
-partnership
-
-15%
-
-marketing
-
-10%
-
-operations
-
----
-
-# 12. Visione
-
-White-Rose.ai non vuole diventare un semplice marketplace.
-
-Vuole diventare:
-
-**il sistema operativo del matrimonio**
-
-Una piattaforma che collega:
-
-coppie
-
-location
-
-hotel
-
-planner
-
-servizi
-
-hospitality
-
-commerce
-
-AI agents
-
-Nel lungo periodo il modello può estendersi a:
-
-eventi privati
-
-destination experience
-
-anniversari
-
-luxury travel
-
-corporate events
-
-event orchestration AI
-
----
-
-## Tagline finale
-
-**White-Rose.ai**
-*Where weddings become dreams*
+E poi estendere lo stesso modello a ogni esperienza premium che richiede coordinamento tra clienti, operatori hospitality e piu' fornitori indipendenti.

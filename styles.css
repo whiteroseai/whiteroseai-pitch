@@ -118,11 +118,39 @@ img {
 
 .deck-meta {
   display: inline-flex;
+  align-items: center;
   gap: 1rem;
   color: var(--muted);
   font-size: 0.8rem;
   text-transform: uppercase;
   letter-spacing: 0.18em;
+}
+
+.language-switch {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.2rem;
+  padding: 0.22rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.62);
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.language-switch a {
+  min-width: 2rem;
+  padding: 0.32rem 0.52rem;
+  border-radius: 999px;
+  color: var(--muted);
+  font-size: 0.72rem;
+  font-weight: 800;
+  text-align: center;
+}
+
+.language-switch a.is-active {
+  background: var(--accent);
+  color: white;
 }
 
 .deck-rail {
@@ -308,8 +336,8 @@ h1 {
 }
 
 h2 {
-  max-width: 13ch;
-  font-size: clamp(2.9rem, 5.4vw, 5.4rem);
+  max-width: 12ch;
+  font-size: clamp(2.45rem, 4.6vw, 4.7rem);
 }
 
 .title-main,
@@ -325,10 +353,10 @@ h2 {
 .hero-line,
 .closing-line {
   max-width: 40ch;
-  margin: 1.45rem 0 0;
+  margin: 1.2rem 0 0;
   color: var(--muted-strong);
-  font-size: clamp(1.15rem, 2vw, 1.42rem);
-  line-height: 1.6;
+  font-size: clamp(1.05rem, 1.65vw, 1.28rem);
+  line-height: 1.5;
 }
 
 .phone-stage {
@@ -595,7 +623,7 @@ h2 {
 }
 
 .pillar-card {
-  min-height: 15.5rem;
+  min-height: 13.6rem;
 }
 
 .pillar-card-highlight {
@@ -615,15 +643,15 @@ h2 {
 
 .pillar-card strong {
   display: block;
-  font-size: 1.35rem;
+  font-size: 1.24rem;
   line-height: 1.25;
   letter-spacing: -0.03em;
 }
 
 .pillar-card p {
-  margin: 1rem 0 0;
+  margin: 0.8rem 0 0;
   color: var(--muted);
-  line-height: 1.65;
+  line-height: 1.5;
 }
 
 .visual-layout {
@@ -822,8 +850,8 @@ h2 {
 .note-band {
   position: relative;
   z-index: 1;
-  margin-top: 1.3rem;
-  padding: 1.2rem 1.3rem;
+  margin-top: 1rem;
+  padding: 1rem 1.1rem;
   border-radius: 1.6rem;
   background: rgba(255, 255, 255, 0.75);
   border: 1px solid var(--line);
@@ -832,8 +860,8 @@ h2 {
 .note-band p {
   margin: 0;
   color: var(--muted-strong);
-  font-size: 1.02rem;
-  line-height: 1.65;
+  font-size: 0.96rem;
+  line-height: 1.5;
 }
 
 .note-band-compact {
